@@ -1,6 +1,6 @@
-João Ribeiro — RM: 570562 — Turma: 1CCPH-
-Gabriel de Paula - rm : 573195 – Turma: 1CCPH-
-Enzo Ribeiro - rm : 569429 - Turma: 1CCPH-
+João Ribeiro — RM: 570562 — Turma: 1CCPH-<br>
+Gabriel de Paula - rm : 573195 – Turma: 1CCPH-<br>
+Enzo Ribeiro - rm : 569429 - Turma: 1CCPH-<br>
 
  
 
@@ -34,20 +34,20 @@ Observação
 Certifique-se de que o modelo gpt-oss:120b esteja disponível ou corretamente configurado no endpoint padrão do host Ollama utilizado.
 
 Estrutura do Projeto
-mission-control-ai/
-├── src/
-│ ├── telemetria.py
-│ │ Simulação de dados (ciclos) e plotagem com Matplotlib
-│ └── alertas.py
-│ Lógica do motor de contingência e formatação de alertas
-├── prompts/
-│ └── system_prompt.md
-│ Diretrizes e engenharia de prompt para o comportamento da IA
-├── .env
-│ Chaves de ambiente e tokens de autenticação
-├── main.py
-│ Loop principal da CLI e gerenciamento de estados
-└── README.md
+mission-control-ai/<br>
+├── src/<br>
+│ ├── telemetria.py<br>
+│ │ Simulação de dados (ciclos) e plotagem com Matplotlib<br>
+│ └── alertas.py<br>
+│ Lógica do motor de contingência e formatação de alertas<br>
+├── prompts/<br>
+│ └── system_prompt.md<br>
+│ Diretrizes e engenharia de prompt para o comportamento da IA<br>
+├── .env<br>
+│ Chaves de ambiente e tokens de autenticação<br>
+├── main.py<br>
+│ Loop principal da CLI e gerenciamento de estados<br>
+└── README.md<br>
 Documentação oficial do projeto
 
 Como Executar
@@ -64,10 +64,10 @@ Comandos Disponíveis
 Durante a execução da CLI do Mission Control, será exibido o prompt interativo:
 ❯❯❯
 Você pode realizar perguntas em linguagem natural para a IA ou utilizar os comandos operacionais:
-/status — Exibe o relatório sumário em tempo real.
-/help — Lista todos os comandos disponíveis.
-/clear — Limpa a tela e renderiza novamente o banner principal.
-/exit — Finaliza a sessão de monitoramento com segurança.
+/status — Exibe o relatório sumário em tempo real.<br>
+/help — Lista todos os comandos disponíveis.<br>
+/clear — Limpa a tela e renderiza novamente o banner principal.<br>
+/exit — Finaliza a sessão de monitoramento com segurança.<br>
 
 
 Funcionamento do Sistema
