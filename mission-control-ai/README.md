@@ -14,20 +14,20 @@ A IA recebe um snapshot da telemetria atual, as diretrizes definidas no system_p
 
 
 Requisitos
-Antes de executar o projeto, certifique-se de possuir:
-Python 3.x
-matplotlib
-ollama
-python-dotenv
-prompt_toolkit
-pyfiglet
-rich
+Antes de executar o projeto, certifique-se de possuir: <br>
+Python 3.x <br>
+matplotlib <br>
+ollama <br>
+python-dotenv <br>
+prompt_toolkit <br>
+pyfiglet <br>
+rich <br>
 
 
-Configuração
+Configuração<br>
 O sistema pode se conectar a uma infraestrutura Ollama local ou remota.
 Crie um arquivo .env na raiz do projeto e configure sua chave de autenticação:
-Configurações de Credenciais do Mission Red
+Configurações de Credenciais do Mission Red<br>
 OLLAMA_API_KEY="sua_chave_de_api_aqui"
 
 Observação
